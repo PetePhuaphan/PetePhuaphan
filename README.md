@@ -9,6 +9,7 @@ I'm an enthusiastic Business Insights and Analytics student at Humber College, T
   - [Boston Housing Price Prediction with Streamlit on Docker](https://github.com/PetePhuaphan/boston-housing-price-docker) - A Python project deploying a machine learning model for Boston housing price predictions into a user-friendly Streamlit web application..
   - [Modern Portfolio Theory in Python](https://github.com/PetePhuaphan/modern-portfolio-theory-steamlit) - Python tool for Modern Portfolio Theory, using real S&P 500 data (Jan 2022-Oct 2023) to optimize portfolios for minimum volatility and maximum returns..
   - [Interactive Resume AI](https://github.com/PetePhuaphan/interactive-resume-ai) - Interactive Resume AI project uses AI for dynamic resume exploration, integrating resumes with vector database and OpenAI for accurate, interactive user queries via a Streamlit interface.
+  - [dbt Data Transformation Project - Canada Inflation Indicators](https://github.com/PetePhuaphan/dbt-inflation-indicators/tree/main) - This project demonstrates the use of dbt for efficient Extract, Load, and Transform (ELT) processes, focusing on streamlined SQL management in transforming Canadian economic indicators.
 
 ## 🌱 I’m currently learning
 - Deepening my expertise in modern data stacks (Databricks, Snowflake, etc.).
